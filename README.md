@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akhilesh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me akhileshmtg@gmail.com
 
